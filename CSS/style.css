@@ -1,0 +1,76 @@
+body{
+    color: black;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
+
+.container{
+    height: 100%;
+    width: auto;
+}
+
+.background{
+    height: auto;
+    width: 85%;
+}
+
+h1{
+    position: absolute;
+    margin-top: 15%;
+    font-weight: bold;
+    width: 100%;
+    margin-top: 15%;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 8vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+#my-clock{
+    position: absolute;
+    width: 100%;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 25%;
+    font-size: 9vw;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button{
+    position: absolute;
+    margin-top: 35%;
+    margin-left: 38%;
+    text-align: center;
+}
+
+.button #startStop, .button #reset{
+    margin: 10px;
+    padding: 20px;
+    font-size: 3vw;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: transparent;
+    border: lightskyblue;
+    color: white;
+}
+
+@media(max-width: 700px){
+    h1{
+        width: 100%;
+        margin-top: 15%;
+        text-align: center;
+    }
+    #my-clock{
+        width: 100%;
+        margin-top: 25%;
+        text-align: center;
+    }
+    .container, .background{
+        width: 100%;
+        height: auto;
+    }
+    .button{
+        margin-left: 30%;
+    }
+}

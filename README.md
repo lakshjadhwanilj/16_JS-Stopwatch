@@ -1,5 +1,6 @@
 # JS-Stopwatch
 A stopwatch built using HTML5, CSS3 and JS.
+![picture alt](https://raw.githubusercontent.com/lakshjadhwanilj/JS-Stopwatch/master/Screenshot%201.png)
 This is a simple stopwatch functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
 # Steps to execute this stopwatch:
 

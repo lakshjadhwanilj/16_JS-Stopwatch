@@ -1,7 +1,7 @@
 # JS-Stopwatch
-A stopwatch built using HTML5, CSS3 and JS.
+A stopwatch built using HTML5, CSS3 and JS. <br />
 ![picture alt](https://raw.githubusercontent.com/lakshjadhwanilj/JS-Stopwatch/master/ss%201.png)
-This is a simple stopwatch functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
+This is a simple stopwatch functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible. <br />
 # Steps to execute this stopwatch:
 
    * Download the entire code
